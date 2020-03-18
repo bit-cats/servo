@@ -133,6 +133,7 @@
 #![deny(missing_docs)]
 #![deny(non_snake_case)]
 
+pub mod doge;
 pub mod callback;
 pub mod cell;
 pub mod constant;
